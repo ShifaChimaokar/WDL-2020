@@ -76,4 +76,4 @@ You can also view the Network Graph <a href="https://github.com/janvi2001/WDL-20
 [-] GitHub : <a href="https://github.com/misbah46">https://github.com/misbah46</a>
 
 - **Shifa Chimaokar**<br>
-[-] GitHub : <a href="https://github.com/quartz-algo">https://github.com/ShifaChimaokar</a>
+[-] GitHub : <a href="https://github.com/ShifaChimaokar">https://github.com/ShifaChimaokar</a>
